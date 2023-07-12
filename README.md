@@ -5,8 +5,21 @@ In recent times, the pervasive influence of social media has been harnessed by v
 Against this backdrop, it becomes imperative to address and understand the different manifestations of communal violence. To this end, this shared task aims to categorize and discern various forms of communal violence, aiming to shed light on this complex phenomenon and contribute to its mitigation.
 ## Task Description
 N/A
-## Data Stat
+## Data
+### Description
+We will provide dataset in CSV format. The dataset contains two columns: "text" and "label". The "text" column contains textual data collected from social media. The values in the "label" column will be 0, 1, or 2, representing different categories of violence.
+
+Label Definition:
+
+| Label             | Category |
+| ----------------- | -------- |
+| Direct Violence   | 2        |
+| Passive Violence  | 1        |
+| Non Violence      | 0        |
+
+### Statistics
 N/A
+
 ## Competition Link
 N/A
 ## Organizers
