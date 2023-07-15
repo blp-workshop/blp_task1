@@ -40,11 +40,15 @@ N/A
 TBD
 
 ## Organizers
-N/A
+- Sourav Saha
+- Jahedul Alam Junaed
+- Dr. Sudipta Kar
+- Dr. Ruhul Amin, Asst. Professor, Fordham University
+
 
 ## Communication
  - Join us in [Slack](https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g) 
- - [Contact the organizers]()
+ - [Contact the organizers](souravsaha0152@gmail.com, nowshadjunaed@gmail.com)
  - 
 ## Anti-Harassment Policy
 EMNLP adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php/Anti-Harassment_Policy). Any participant who experiences harassment or hostile behaviour may contact any current member of the [ACL Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php/Professional_Conduct_Committee). Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
