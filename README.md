@@ -5,7 +5,7 @@ In recent times, the pervasive influence of social media has been harnessed by v
 Against this backdrop, it becomes imperative to address and understand the different manifestations of communal violence. To this end, this shared task aims to categorize and discern various forms of communal violence, aiming to shed light on this complex phenomenon and contribute to its mitigation.
 
 ## Task Description
-This shared task presents a challenge to NLP enthusiasts who wish to participate in a violence inciting text classification task. The  dataset comprises YouTube comments related to the top 10 violent incidents that have occurred in the Bengal region (Bangladesh and West Bengal) within the past 10 years. The dataset encompasses content in Bangla, with comment lengths of up to 600 words. The primary objective of this task is to identify and classify threats associated with violence, which can potentially lead to further incitement of violent acts.
+This shared task presents a challenge to NLP enthusiasts who wish to participate in a violence inciting text classification task. The  dataset comprises YouTube comments related to the top 9 violent incidents that have occurred in the Bengal region (Bangladesh and West Bengal) within the past 10 years. The dataset encompasses content in Bangla, with comment lengths of up to 600 words. The primary objective of this task is to identify and classify threats associated with violence, which can potentially lead to further incitement of violent acts.
 
 The task categories are defined as follows:
 
