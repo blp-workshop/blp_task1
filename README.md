@@ -25,13 +25,13 @@ Participants are welcome to build systems for the classification task. The succe
 ### Description
 We will provide dataset in CSV format. The dataset contains two columns: "text" and "label". The "text" column contains textual data collected from social media. The values in the "label" column will be 0, 1, or 2, representing different categories of violence.
 
-### Label Definition:
+### Label Definition
 
 | Label             | Category |
 | ----------------- | -------- |
 | Direct Violence   | 2        |
 | Passive Violence  | 1        |
-| Non Violence      | 0        |
+| Non-Violence      | 0        |
 
 ### Input data format
 Data is currently provided in .csv with train.csv and dev.csv files. A row within the CSV adheres to the following structure:
@@ -49,7 +49,24 @@ Where:
 শয়তান মেরে হাসবে না তো কাঁদবে!!,1
 যে মারা গেল তার ক্ষতিপূরনের ব‍্যবস্হা করে দেওয়া হোক।,0
 ```
+### Statistics
+There are two sets used for training and development purposes. The training set is comprised of 2700 samples, which means it contains 2700 instances of data used to train a machine learning model or algorithm. On the other hand, the development set consists of 1330 samples.
+| Dataset | Number of Samples |
+| --------| ----------------- |
+| Train   |      2700         |
+| Dev     |      1330         |
 
+#### Train Set
+The training set, which includes 2700 samples, is composed of a diverse range of data. Within this set, approximately 15% of the samples depict direct violence, 34% portray passive violence, and the remaining 51% represent non-violent instances. The following figure shows the percentage distribution in different categories in trainig set.
+<div style="text-align:center">
+    <img src="\images\train_pie_chart.png" alt="Percentage Distribution in train set: Direct Violence, Passive Violence, Non-Violence">
+</div>
+
+#### Development Set
+The development set comprises 1330 samples, showcasing a diverse range of data. Among these samples, around 15% illustrate direct violence, 31% depict passive violence, and the remaining 54% represent non-violent instances. The following figure shows the percentage distribution in different categories in development set.
+<div style="text-align:center">
+    <img src="\images\dev_pie_chart.png" alt="Percentage Distribution in dev set: Direct Violence, Passive Violence, Non-Violence">
+</div>
 
 ## Important Dates
 - **16 July 2023:** Registration on codalab and beginning of the development cycle
