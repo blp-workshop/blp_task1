@@ -37,7 +37,7 @@ We will provide dataset in CSV format. The dataset contains two columns: "text" 
 Data is currently provided in .csv with train.csv and dev.csv files. A row within the CSV adheres to the following structure:
 
 ```
-id text	label
+text	label
 ```
 Where:
 * text: text
