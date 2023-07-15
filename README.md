@@ -36,13 +36,25 @@ Label Definition:
 ### Statistics
 N/A
 
+## Important Dates
+- **16 July 2023:** Registration on codalab and beginning of the development cycle
+- **15 August 2023:** Beginning of the evaluation cycle (test sets release and run submission)
+- **18 August 2023:** End of the evaluation cycle
+- **20 August 2023:** Publish rank list and share paper submission details
+- **12 September 2023:** Deadline for the submission of working notes
+- **10 October 2023:** Notification of acceptance
+- **18 October 2023:** Camera-ready due
+- **8 December 2023:** Workshop co-located with EMNLP (Singapore)
+
 ## Competition Link
-TBD
+- [Registration Link](https://docs.google.com/forms/d/175kZhk8Eb5rwMqAifzJ6ULcMt0NVcb1wBl3xaZQe48c/edit?usp=sharing_eil_se_dm&ts=64b19ad0) (Dataset provided after successful registration)
+- Contest Link (Dev Phase): TBD
+- Contest Link (Test Phase): TBD
+
 
 ## Organizers
 - Sourav Saha
 - Jahedul Alam Junaed
-- Dr. Sudipta Kar
 - Dr. Ruhul Amin, Asst. Professor, Fordham University
 
 
@@ -51,4 +63,4 @@ TBD
  - [Contact the organizers](souravsaha0152@gmail.com, nowshadjunaed@gmail.com)
  - 
 ## Anti-Harassment Policy
-EMNLP adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php/Anti-Harassment_Policy). Any participant who experiences harassment or hostile behaviour may contact any current member of the [ACL Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php/Professional_Conduct_Committee). Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
+EMNLP adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php/Anti-Harassment_Policy). Any participant who experiences harassment or hostile behavior may contact any current member of the [ACL Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php/Professional_Conduct_Committee). Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
