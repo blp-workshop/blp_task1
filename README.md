@@ -25,13 +25,28 @@ Participants are welcome to build systems for the classification task. The succe
 ### Description
 We will provide dataset in CSV format. The dataset contains two columns: "text" and "label". The "text" column contains textual data collected from social media. The values in the "label" column will be 0, 1, or 2, representing different categories of violence.
 
-Label Definition:
+### Label Definition:
 
 | Label             | Category |
 | ----------------- | -------- |
 | Direct Violence   | 2        |
 | Passive Violence  | 1        |
 | Non Violence      | 0        |
+
+### Input data format
+Data is currently provided in .csv with train.csv and dev.csv files. A row within the CSV adheres to the following structure:
+
+```
+id text	label
+```
+Where:
+* text: text
+* label: Direct Violence, Passive Violence, Non-Violence
+
+##### Example
+```
+"ঢাকা কলেজে আগুন লাগিয়ে এই কুলাঙ্গার ছাত্রদের পুরিয়ে মারা উচিৎ,, এরাই এখন গলার কাটা",2
+```
 
 ### Statistics
 N/A
