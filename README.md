@@ -63,8 +63,7 @@ Where:
 
 ## Competition Link
 - [Registration Link](https://docs.google.com/forms/d/175kZhk8Eb5rwMqAifzJ6ULcMt0NVcb1wBl3xaZQe48c/edit?usp=sharing_eil_se_dm&ts=64b19ad0) (Dataset provided after successful registration)
-- Contest Link (Dev Phase): TBD
-- Contest Link (Test Phase): TBD
+- Contest Link: TBD
 
 
 ## Organizers
@@ -75,7 +74,6 @@ Where:
 
 ## Communication
  - Join us in [Slack](https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g) 
- - [Contact the organizers](souravsaha0152@gmail.com, nowshadjunaed@gmail.com)
- - 
+ - [Contact the organizers](mailto:violence-inciting-text-detection@googlegroups.com)
 ## Anti-Harassment Policy
 EMNLP adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php/Anti-Harassment_Policy). Any participant who experiences harassment or hostile behavior may contact any current member of the [ACL Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php/Professional_Conduct_Committee). Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
