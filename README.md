@@ -89,9 +89,31 @@ The baseline results for the task on development set are provided in the below t
 - **18 October 2023:** Camera-ready due
 - **8 December 2023:** Workshop co-located with EMNLP (Singapore)
 
-## Competition Link
+## Competition 
 - [Registration Link](https://docs.google.com/forms/d/175kZhk8Eb5rwMqAifzJ6ULcMt0NVcb1wBl3xaZQe48c/edit?usp=sharing_eil_se_dm&ts=64b19ad0) (Dataset provided after successful registration)
 - Contest Link: TBD
+- This competition consists of two phases:
+    1. **Trial phase:** This phase involves working on the dev set.
+    2. **Evaluation phase:** This phase involves working on the test set, which will be released during the evaluation cycle.
+- To participate in this competition, you must have a account in [codalab](https://codalab.lisn.upsaclay.fr/)
+- We request each team to establish and manage a single account for all submissions. Any submissions made from multiple accounts by the same team may lead to your system being not ranked from the final ranking in the overview paper.
+- The most recently uploaded file on the leaderboard will serve as your final submission.
+- Each team is allowed a maximum of 20 submissions per day for the given task.
+
+
+## Submission Guidelines
+Your submissions will be evaluated by macro F1 comparing with the ground truth. The leaderboard’s performance is ranked by macro-F1 in the descending order. To check more detailed evaluation scores after submission, you can "View scoring output log".
+### Format of Prediction File
+The prediction file should follow the CSV format. In the CSV file, there should have exactly two columns named "text" and "label". The "label" column will be used for evaluation. The values in the "label" column should range from 0 to 2, as there are three classes in our task. We have provided a sample prediction file below for your convenience.
+- [Sample prediction file for trial phase](https://drive.google.com/file/d/13mRoMGscsVmHhd5M-pJfDFMxJzSMDmiV/view?usp=sharing)
+### Prepare Submission Files
+Follow the instructions below to submit your prediction file. Codalab requires all submissions to be in zip format.
+<ul>
+	<li>Use your trained model to generate a prediction file.</li>
+	<li>Name the prediction file in the format of <code>&lt;file_name&gt;.csv</code>, where <code>&lt;file_name&gt;</code> represents a descriptive name of your choice.</li>
+	<li>Compress the <code>&lt;file_name&gt;.csv</code> file into a zip file.</li>
+	<li>Submit the zip file on Codalab.</li>
+</ul>
 
 
 ## Organizers
