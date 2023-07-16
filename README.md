@@ -68,6 +68,17 @@ The development set comprises 1330 samples, showcasing a diverse range of data. 
     <img src="\images\dev_pie_chart.png" alt="Percentage Distribution in dev set: Direct Violence, Passive Violence, Non-Violence">
 </div>
 
+## Baselines
+
+We have used baseline system that fine-tunes the XLM-RoBERTa base model and BERT multilingual base model (cased) for the dataset.
+
+The baseline results for the task on development set are provided in the below table.
+
+| Model                             | macro-F1 |
+|-----------------------------------|----------|
+| XLM-RoBERTa base                  | 0.7292   |
+| BERT multilingual base (cased)    | 0.6819   |
+
 ## Important Dates
 - **16 July 2023:** Registration on codalab and beginning of the development cycle
 - **15 August 2023:** Beginning of the evaluation cycle (test sets release and run submission)
