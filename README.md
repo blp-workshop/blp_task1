@@ -50,8 +50,6 @@ Where:
 যে মারা গেল তার ক্ষতিপূরনের ব‍্যবস্হা করে দেওয়া হোক।,0
 ```
 
-### Statistics
-N/A
 
 ## Important Dates
 - **16 July 2023:** Registration on codalab and beginning of the development cycle
