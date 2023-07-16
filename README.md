@@ -91,10 +91,10 @@ The baseline results for the task on development set are provided in the below t
 
 ## Competition 
 - [Registration Link](https://docs.google.com/forms/d/175kZhk8Eb5rwMqAifzJ6ULcMt0NVcb1wBl3xaZQe48c/edit?usp=sharing_eil_se_dm&ts=64b19ad0) (Dataset provided after successful registration)
-- Contest Link: TBD
+- Contest Link: https://codalab.lisn.upsaclay.fr/competitions/14620?secret_key=a4e4a77a-dabd-4d36-aaaf-01f35edb9d53
 - This competition consists of two phases:
-    1. **Trial phase:** This phase involves working on the dev set.
-    2. **Evaluation phase:** This phase involves working on the test set, which will be released during the evaluation cycle.
+    1. **Trial Phase:** This phase involves working on the dev set.
+    2. **Evaluation Phase:** This phase involves working on the test set, which will be released during the evaluation cycle.
 - To participate in this competition, you must have a account in [codalab](https://codalab.lisn.upsaclay.fr/)
 - We request each team to establish and manage a single account for all submissions. Any submissions made from multiple accounts by the same team may lead to your system being not ranked from the final ranking in the overview paper.
 - The most recently uploaded file on the leaderboard will serve as your final submission.
