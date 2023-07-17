@@ -122,6 +122,17 @@ Follow the instructions below to submit your prediction file. Codalab requires a
 - Dr. Nabeel Mohammed, Associate Professor, North South University
 - Dr. Ruhul Amin, Asst. Professor, Fordham University
 
+## Citation
+Please use the following bibtex entries to cite the task.
+```
+@inproceedings{SahaAndJunaed,
+  title={Violence Inciting Text Detection},
+  author={Saha, Sourav and Junaed, Jahedul Alam and Mohammed, Nabeel and Amin, Mohammad Ruhul},
+  booktitle={EMNLP Workshop on BLP},
+  year={2023}
+}
+
+```
 
 ## Communication
  - Join us in [Slack](https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g) 
