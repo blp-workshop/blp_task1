@@ -117,8 +117,8 @@ Follow the instructions below to submit your prediction file. Codalab requires a
 
 
 ## Organizers
-- Sourav Saha
-- Jahedul Alam Junaed
+- Sourav Saha, Shahjalal University of Science and Technology
+- Jahedul Alam Junaed, Shahjalal University of Science and Technology
 - Dr. Nabeel Mohammed, Associate Professor, North South University
 - Dr. Ruhul Amin, Asst. Professor, Fordham University
 
