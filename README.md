@@ -123,7 +123,7 @@ Follow the instructions below to submit your prediction file. Codalab requires a
 - Dr. Ruhul Amin, Asst. Professor, Fordham University
 
 ## Citation
-Please use the following bibtex entries to cite the task.
+Please use the following bibtex to cite the task.
 ```
 @inproceedings{SahaAndJunaed,
   title={Violence Inciting Text Detection},
