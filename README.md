@@ -76,9 +76,10 @@ The baseline results for the task on development set are provided in the below t
 
 | Model                             | macro-F1 |
 |-----------------------------------|----------|
+| BanglaBERT    		    | 0.7879   |
 | XLM-RoBERTa base                  | 0.7292   |
 | BERT multilingual base (cased)    | 0.6819   |
-| BanglaBERT    		    | 0.7879   |
+
 
 ## Important Dates
 - **16 July 2023:** Registration on codalab and beginning of the development cycle
