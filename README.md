@@ -76,7 +76,7 @@ The baseline results for the task on development set are provided in the below t
 
 | Model                             | macro-F1 |
 |-----------------------------------|----------|
-| BanglaBERT    		    | 0.7879   |
+| BanglaBERT    		            | 0.7879   |
 | XLM-RoBERTa base                  | 0.7292   |
 | BERT multilingual base (cased)    | 0.6819   |
 
@@ -100,14 +100,15 @@ The baseline results for the task on development set are provided in the below t
     - **Evaluation Phase:** This phase involves working on the test set, which will be released during the evaluation cycle.
 - Participants can form a team with multiple people or single person team is okay.
 - We request each team to establish and manage a single account for all submissions. Any submissions made from multiple accounts by the same team may lead to your system being not ranked from the final ranking in the overview paper.
-- The most recently uploaded file on the leaderboard will serve as your final submission.
-- Each team is allowed a maximum of 20 submissions per day for the given task.
+- A **google form** link will be attached here once the evaluation phase begins, for providing **team information**.
+- The most recently submitted score on the leaderboard will serve as your final submission.
+- Each team is allowed a maximum of 30 submissions per day for the given task.
 
 
 ## Submission Guidelines
 Your submissions will be evaluated by macro F1 comparing with the ground truth. The leaderboard’s performance is ranked by macro-F1 in the descending order. To check more detailed evaluation scores after submission, you can "View scoring output log".
 ### Format of Prediction File
-The prediction file should follow the CSV format. In the CSV file, there should have exactly two columns named "text" and "label". The "label" column will be used for evaluation. The values in the "label" column should range from 0 to 2, as there are three classes in our task. We have provided a sample prediction file below for your convenience.
+The prediction file should follow the CSV format. In the CSV file, there should have exactly two columns named "text" and "label". The "label" column will be used for evaluation. The values in the "label" column should range from 0 to 2, as there are three classes in our task. In the prediction file, the order of the data should be the order given by us. We have provided a sample prediction file below for your convenience.
 - [Sample prediction file for trial phase](https://drive.google.com/file/d/13mRoMGscsVmHhd5M-pJfDFMxJzSMDmiV/view?usp=sharing)
 ### Prepare Submission Files
 Follow the instructions below to submit your prediction file. Codalab requires all submissions to be in zip format.
@@ -117,6 +118,7 @@ Follow the instructions below to submit your prediction file. Codalab requires a
 	<li>Compress the <code>&lt;file_name&gt;.csv</code> file into a zip file.</li>
 	<li>Submit the zip file on Codalab.</li>
 </ul>
+After a successful submission, you need to click the <b>Submit to Leaderboard</b> button to submit the score to the leaderboard.
 
 
 ## Organizers
