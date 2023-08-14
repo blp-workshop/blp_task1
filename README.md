@@ -86,13 +86,13 @@ The baseline results for the task on development set are provided in the below t
 - **15 August 2023:** Beginning of the evaluation cycle (test sets release and run submission)
 - **18 August 2023:** End of the evaluation cycle
 - **20 August 2023:** Publish rank list and share paper submission details
-- **12 September 2023:** Deadline for the submission of working notes
-- **10 October 2023:** Notification of acceptance
-- **18 October 2023:** Camera-ready due
+- **10 September 2023:** Deadline for the submission of working notes
+- **9 October 2023:** Notification of acceptance
+- **16 October 2023:** Camera-ready due
 - **8 December 2023:** Workshop co-located with EMNLP (Singapore)
 
 ## Competition 
-- [Registration Link](https://docs.google.com/forms/d/175kZhk8Eb5rwMqAifzJ6ULcMt0NVcb1wBl3xaZQe48c/edit?usp=sharing_eil_se_dm&ts=64b19ad0) (Dataset provided after successful registration)
+- [Dataset of Trial Phase](https://docs.google.com/forms/d/175kZhk8Eb5rwMqAifzJ6ULcMt0NVcb1wBl3xaZQe48c/edit?usp=sharing_eil_se_dm&ts=64b19ad0) (Dataset provided after successful registration)
 - To participate in this competition, you must have a account in [codalab](https://codalab.lisn.upsaclay.fr/)
 - Contest Link: https://codalab.lisn.upsaclay.fr/competitions/14620
 - This competition consists of two phases:
@@ -100,9 +100,9 @@ The baseline results for the task on development set are provided in the below t
     - **Evaluation Phase:** This phase involves working on the test set, which will be released during the evaluation cycle.
 - Participants can form a team with multiple people or single person team is okay.
 - We request each team to establish and manage a single account for all submissions. Any submissions made from multiple accounts by the same team may lead to your system being not ranked from the final ranking in the overview paper.
-- A **google form** link will be attached here once the evaluation phase begins, for providing **team information**.
 - The most recently submitted score on the leaderboard will serve as your final submission.
 - Each team is allowed a maximum of 30 submissions per day for the given task.
+- [Team Registration Form](https://docs.google.com/forms/d/1EeyN90p_icJI9DIorv1JGqx83Q9u2qPPhRK51vVjS_I/edit?ts=64d87b0d) - Hit the link and fill out this form (Test set for evaluation phase provided after successful registration)
 
 
 ## Submission Guidelines
