@@ -108,8 +108,9 @@ The baseline results for the task on development set are provided in the below t
 ## Submission Guidelines
 Your submissions will be evaluated by macro F1 comparing with the ground truth. The leaderboard’s performance is ranked by macro-F1 in the descending order. To check more detailed evaluation scores after submission, you can "View scoring output log".
 ### Format of Prediction File
-The prediction file should follow the CSV format. In the CSV file, there should have exactly two columns named "text" and "label". The "label" column will be used for evaluation. The values in the "label" column should range from 0 to 2, as there are three classes in our task. In the prediction file, the order of the data should be the order given by us. We have provided a sample prediction file below for your convenience.
+The prediction file should follow the CSV format. In the CSV file, there should have exactly two columns named "text" and "label". The "label" column will be used for evaluation. The values in the "label" column should range from 0 to 2, as there are three classes in our task. In the prediction file, the order of the data should be the order given by us. We have provided sample prediction files below for your convenience.
 - [Sample prediction file for trial phase](https://drive.google.com/file/d/13mRoMGscsVmHhd5M-pJfDFMxJzSMDmiV/view?usp=sharing)
+- [Sample prediction file for evaluation phase](https://drive.google.com/file/d/1xsUwrxiRZ7oqCqn1pguGUtC3qZ1fr7Vz/view?usp=sharing)
 ### Prepare Submission Files
 Follow the instructions below to submit your prediction file. Codalab requires all submissions to be in zip format.
 <ul>
