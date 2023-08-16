@@ -100,7 +100,7 @@ The baseline results for the task on development set are provided in the below t
     - **Evaluation Phase:** This phase involves working on the test set, which will be released during the evaluation cycle.
 - Participants can form a team with multiple people or single person team is okay.
 - We request each team to establish and manage a single account for all submissions. Any submissions made from multiple accounts by the same team may lead to your system being not ranked from the final ranking in the overview paper.
-- The most recently submitted score on the leaderboard will serve as your final submission.
+- Your best score will automatically be added to the leaderboard and it will serve as your final submission. 
 - Each team is allowed a maximum of 30 submissions per day for the given task.
 - [Team Registration Form](https://docs.google.com/forms/d/1EeyN90p_icJI9DIorv1JGqx83Q9u2qPPhRK51vVjS_I/edit?ts=64d87b0d) - Hit the link and fill out this form (Test set for evaluation phase provided after successful registration)
 
