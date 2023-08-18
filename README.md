@@ -87,7 +87,7 @@ The baseline results for the task on development set are provided in the below t
 - **18 August 2023:** End of the evaluation cycle
 - **20 August 2023:** Publish rank list and share paper submission details
 - **10 September 2023:** Deadline for the submission of working notes
-- **9 October 2023:** Notification of acceptance
+- **10 October 2023:** Notification of acceptance
 - **16 October 2023:** Camera-ready due
 - **8 December 2023:** Workshop co-located with EMNLP (Singapore)
 
