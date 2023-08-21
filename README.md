@@ -135,7 +135,7 @@ After a successful submission, you need to click the <b>Submit to Leaderboard</b
 | 9    | EmptyMind            | Chittagong University of Engineering and Technology  | empty_box         | 73.797            |
 | 10   | Mavericks            | Pune Institute of Computer Technology               | kshitij           | 73.699            |
 | 11   | LowResourceNLU       | University of California Los Angeles (UCLA), Virginia Tech, James Cook University  | Hari_vm  | 73.468            |
-| 12   | VacLM                | IIT Kanpur, IIT Kanpur, IIT Kanpur                   | pramitb           | 72.656            |
+| 12   | VacLM                | IIT Kanpur			                   | pramitb           | 72.656            |
 | 13   | LexicalMinds         | Chittagong University of Engineering and Technology  | saha17            | 72.551            |
 | 14   | Score_IsAll_You_Need | Chittagong University of Engineering and Technology  | Ka05aR            | 72.376            |
 | 15   | winging_it           | Islamic University of Technology                    | shihab16          | 71.207            |
