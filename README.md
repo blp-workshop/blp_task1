@@ -140,7 +140,7 @@ After a successful submission, you need to click the <b>Submit to Leaderboard</b
 | 14   | Score_IsAll_You_Need | Chittagong University of Engineering and Technology  | Ka05aR            | 72.376            |
 | 15   | winging_it           | Islamic University of Technology                    | shihab16          | 71.207            |
 | 16   | Semantic_Savants     | Chittagong University of Engineering and Technology  | Semantic_Savants  | 71.179            |
-| 17   | Bhavish Pahwa        | Independent                                          | bp-high           | 70.978            |
+| 17   | BpHigh        | Independent                                          | bp-high           | 70.978            |
 | 18   | SUST_Black Box       | Shahjalal University of Science & Technology        | hrithik4064       | 70.680            |
 | 19   | Team_Syrax           | Shahjalal University of Science & Technology        | riyadomf          | 70.450            |
 | 20   | Blue                 | North South University                              | ShadmanRohan      | 70.012            |
