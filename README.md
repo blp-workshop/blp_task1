@@ -125,7 +125,7 @@ After a successful submission, you need to click the <b>Submit to Leaderboard</b
 | Rank | Team Name            | Affiliation                                           | Username          | F1 Score (Macro) |
 |------|----------------------|-------------------------------------------------------|-------------------|------------------|
 | 1    | DeepBlueAI           | DeepBlue Technology (Shanghai) Co., Ltd               | DeepBlueAI        | 76.044            |
-| 2    | Md Fahim             | CCDS Lab, IUB, Dhaka                                  | MoFa_Aambela      | 76.040            |
+| 2    | Aambela             | CCDS Lab, IUB, Dhaka                                  | MoFa_Aambela      | 76.040            |
 | 3    | NLP_CUET             | Chittagong University of Engineering and Technology  | NLP_TEAM          | 74.587            |
 | 4    | Team Embeddings      | NA                                                    | towhidul_tonmoy   | 74.418            |
 | 5    | Semantics Squad      | University of New Brunswick                          | KrishnoDey        | 74.413            |
