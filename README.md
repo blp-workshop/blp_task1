@@ -121,6 +121,38 @@ Follow the instructions below to submit your prediction file. Codalab requires a
 </ul>
 After a successful submission, you need to click the <b>Submit to Leaderboard</b> button to submit the score to the leaderboard.
 
+## Rank List 
+| Rank | Team Name            | Affiliation                                           | Username          | F1 Score (Macro) |
+|------|----------------------|-------------------------------------------------------|-------------------|------------------|
+| 1    | DeepBlueAI           | DeepBlue Technology (Shanghai) Co., Ltd               | DeepBlueAI        | 76.044            |
+| 2    | Md Fahim             | CCDS Lab, IUB, Dhaka                                  | MoFa_Aambela      | 76.040            |
+| 3    | NLP_CUET             | Chittagong University of Engineering and Technology  | NLP_TEAM          | 74.587            |
+| 4    | Team Embeddings      | NA                                                    | towhidul_tonmoy   | 74.418            |
+| 5    | Semantics Squad      | University of New Brunswick                          | KrishnoDey        | 74.413            |
+| 6    | NLP_BD_PATRIOTS      | GEORGE MASON UNIVERSITY                               | Raihan008         | 74.313            |
+| 7    | the_linguists        | Islamic University of Technology                    | tariquzzaman      | 73.978            |
+| 8    | Panda                | Researcher                                           | yangst            | 73.808            |
+| 9    | EmptyMind            | Chittagong University of Engineering and Technology  | empty_box         | 73.797            |
+| 10   | Mavericks            | Pune Institute of Computer Technology               | kshitij           | 73.699            |
+| 11   | LowResourceNLU       | University of California Los Angeles (UCLA), Virginia Tech, James Cook University  | Hari_vm  | 73.468            |
+| 12   | VacLM                | IIT Kanpur, IIT Kanpur, IIT Kanpur                   | pramitb           | 72.656            |
+| 13   | LexicalMinds         | Chittagong University of Engineering and Technology  | saha17            | 72.551            |
+| 14   | Score_IsAll_You_Need | Chittagong University of Engineering and Technology  | Ka05aR            | 72.376            |
+| 15   | winging_it           | Islamic University of Technology                    | shihab16          | 71.207            |
+| 16   | Semantic_Savants     | Chittagong University of Engineering and Technology  | Semantic_Savants  | 71.179            |
+| 17   | Bhavish Pahwa        | Independent                                          | bp-high           | 70.978            |
+| 18   | SUST_Black Box       | Shahjalal University of Science & Technology        | hrithik4064       | 70.680            |
+| 19   | Team_Syrax           | Shahjalal University of Science & Technology        | riyadomf          | 70.450            |
+| 20   | Blue                 | North South University                              | ShadmanRohan      | 70.012            |
+| 21   | Team CentreBack      | Independent                                          | refaat1731        | 69.390            |
+| 22   | Souro                | Charles University                                   | souro             | 69.009            |
+| 23   | BanglaNLP            | Self                                                 | Ssaha             | 68.110            |
+| 24   | KUET_NLP             | Khulna University of Engineering & Technology       | shakib034         | 60.332            |
+| 25   | Shibli_CL            | Ahsanullah University of Science and Technology     | Shibli_CL         | 38.427            |
+| 26   | Ushoshi2023          | Daffodil International University, Florida Institute of Technology, University of North Carolina at Charlotte, United International University | nnur594 | 31.913            |
+| 26   | Team Error Point     | Daffodil International University                   | rajeshdiu         | 31.913            |
+| 27   | lixn                 | LMU                                                  | lixn              | 31.426            |
+
 
 ## Organizers
 - Sourav Saha, Shahjalal University of Science and Technology
