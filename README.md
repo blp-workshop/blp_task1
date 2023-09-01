@@ -129,7 +129,7 @@ After a successful submission, you need to click the <b>Submit to Leaderboard</b
 | 3    | NLP_CUET             | Chittagong University of Engineering and Technology  | NLP_TEAM          | 520009 |74.587            |
 | 4    | Team Embeddings      | NA                                                    | towhidul_tonmoy   | 517629|74.418            |
 | 5    | Semantics Squad      | University of New Brunswick                          | KrishnoDey        | 518447|74.413            |
-| 6    | NLP_BD_PATRIOTS      | GEORGE MASON UNIVERSITY                               | Raihan008         | 516557|74.313            |
+| 6    | nlpBDpatriots      | GEORGE MASON UNIVERSITY                               | Raihan008         | 516557|74.313            |
 | 7    | the_linguists        | Islamic University of Technology                    | tariquzzaman      | 516636|73.978            |
 | 8    | Panda                | Researcher                                           | yangst            |516283| 73.808            |
 | 9    | EmptyMind            | Chittagong University of Engineering and Technology  | empty_box         | 518295| 73.797            |
