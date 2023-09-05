@@ -93,12 +93,12 @@ The baseline results for the task on development set are provided in the below t
 
 ## Competition 
 - [Dataset of Trial Phase](https://docs.google.com/forms/d/175kZhk8Eb5rwMqAifzJ6ULcMt0NVcb1wBl3xaZQe48c/edit?usp=sharing_eil_se_dm&ts=64b19ad0) (Dataset provided after successful registration)
-- To participate in this competition, you must have a account in [codalab](https://codalab.lisn.upsaclay.fr/)
+- To participate in this competition, you must have an account in [codalab](https://codalab.lisn.upsaclay.fr/)
 - Contest Link: https://codalab.lisn.upsaclay.fr/competitions/14620
 - This competition consists of two phases:
     - **Trial Phase:** This phase involves working on the dev set.
     - **Evaluation Phase:** This phase involves working on the test set, which will be released during the evaluation cycle.
-- Participants can form a team with multiple people or single person team is okay.
+- Participants can form a team with multiple people or a single-person team is okay.
 - We request each team to establish and manage a single account for all submissions. Any submissions made from multiple accounts by the same team may lead to your system being not ranked from the final ranking in the overview paper.
 - Your best score will automatically be added to the leaderboard and it will serve as your final submission. 
 - Each team is allowed a maximum of 30 submissions per day for the given task.
@@ -106,7 +106,7 @@ The baseline results for the task on development set are provided in the below t
 
 
 ## Submission Guidelines
-Your submissions will be evaluated by macro F1 comparing with the ground truth. The leaderboard’s performance is ranked by macro-F1 in the descending order. To check more detailed evaluation scores after submission, you can "View scoring output log".
+Your submissions will be evaluated by macro F1 comparing with the ground truth. The leaderboard’s performance is ranked by macro-F1 in descending order. To check more detailed evaluation scores after submission, you can "View scoring output log".
 ### Format of Prediction File
 The prediction file should follow the CSV format. In the CSV file, there should have exactly two columns named "text" and "label". The "label" column will be used for evaluation. The values in the "label" column should range from 0 to 2, as there are three classes in our task. In the prediction file, the order of the data should be the order given by us. We have provided sample prediction files below for your convenience.
 - [Sample prediction file for trial phase](https://drive.google.com/file/d/13mRoMGscsVmHhd5M-pJfDFMxJzSMDmiV/view?usp=sharing)
@@ -161,16 +161,36 @@ After a successful submission, you need to click the <b>Submit to Leaderboard</b
 - Dr. Ruhul Amin, Asst. Professor, Fordham University
 
 ## Citation
-Please use the following bibtex to cite the task.
+Please use the following BibTeX to cite the dataset and the task.
+
+### Dataset Paper:
 ```
 @inproceedings{SahaAndJunaed,
-  title={Violence Inciting Text Detection},
-  author={Saha, Sourav and Junaed, Jahedul Alam and Mohammed, Nabeel and Amin, Mohammad Ruhul},
-  booktitle={EMNLP Workshop on BLP},
-  year={2023}
+  title = “Vio-Lens: A Novel Dataset of Annotated Social Network Posts Leading to
+Different Forms of Communal Violence and its Evaluation”,
+  author= “Saha, Sourav and Junaed, Jahedul Alam  and Api, Arnab Sen Sharma and Mohammad, Nabeel and Amin, Mohammad Ruhul”,
+  booktitle =  "Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023)”,
+  month = “dec”,
+  year = ”2023”,
+  publisher = "Association for Computational Linguistics",
+  address = “Singapore”,
+}
+```
+### Task Description Paper:
+```
+@inproceedings{blp2023-overview-task1,
+  title = “BLP-2023 Task 1: Violence Inciting Text Detection (VITD)”,
+  author= “Saha, Sourav and Junaed, Jahedul Alam and Mohammed, Nabeel and Kar, Sudipta and Amin, Mohammad Ruhul”,
+  booktitle =  "Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023)”,
+  month = “dec”,
+  year = ”2023”,
+  publisher = "Association for Computational Linguistics",
+  address = “Singapore”,
 }
 
 ```
+
+
 
 ## Communication
  - Join us in [Slack](https://join.slack.com/t/blpworkshop/shared_invite/zt-1ryu9eyac-7fevK9A4_Bt~qN_eCK349g) 
