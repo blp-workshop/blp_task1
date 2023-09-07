@@ -72,7 +72,7 @@ The development set comprises 1330 samples, showcasing a diverse range of data. 
 
 We have used baseline system that fine-tunes the XLM-RoBERTa base model and BERT multilingual base model (cased) for the dataset.
 
-The baseline results for the task on development set are provided in the below table.
+The baseline results for the task on the development set are provided in the below table.
 
 | Model                             | macro-F1 |
 |-----------------------------------|----------|
@@ -166,26 +166,26 @@ Please use the following BibTeX to cite the dataset and the task.
 ### Dataset Paper:
 ```
 @inproceedings{SahaAndJunaed,
-  title = “Vio-Lens: A Novel Dataset of Annotated Social Network Posts Leading to
-Different Forms of Communal Violence and its Evaluation”,
-  author= “Saha, Sourav and Junaed, Jahedul Alam  and Api, Arnab Sen Sharma and Mohammad, Nabeel and Amin, Mohammad Ruhul”,
-  booktitle =  "Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023)”,
-  month = “dec”,
-  year = ”2023”,
+  title = "Vio-Lens: A Novel Dataset of Annotated Social Network Posts Leading to
+Different Forms of Communal Violence and its Evaluation",
+  author= "Saha, Sourav and Junaed, Jahedul Alam  and Api, Arnab Sen Sharma and Mohammad, Nabeel and Amin, Mohammad Ruhul",
+  booktitle =  "Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023)",
+  month = "dec",
+  year = "2023",
   publisher = "Association for Computational Linguistics",
-  address = “Singapore”,
+  address = "Singapore",
 }
 ```
 ### Task Description Paper:
 ```
 @inproceedings{blp2023-overview-task1,
-  title = “BLP-2023 Task 1: Violence Inciting Text Detection (VITD)”,
-  author= “Saha, Sourav and Junaed, Jahedul Alam and Mohammed, Nabeel and Kar, Sudipta and Amin, Mohammad Ruhul”,
-  booktitle =  "Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023)”,
-  month = “dec”,
-  year = ”2023”,
+  title = "BLP-2023 Task 1: Violence Inciting Text Detection (VITD)",
+  author= "Saha, Sourav and Junaed, Jahedul Alam and Mohammed, Nabeel and Kar, Sudipta and Amin, Mohammad Ruhul",
+  booktitle =  "Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023)",
+  month = "dec",
+  year = "2023",
   publisher = "Association for Computational Linguistics",
-  address = “Singapore”,
+  address = "Singapore",
 }
 
 ```
