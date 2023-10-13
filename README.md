@@ -180,7 +180,7 @@ Different Forms of Communal Violence and its Evaluation",
 ```
 @inproceedings{blp2023-overview-task1,
   title = "BLP-2023 Task 1: Violence Inciting Text Detection (VITD)",
-  author= "Saha, Sourav and Junaed, Jahedul Alam and Mohammed, Nabeel and Kar, Sudipta and Amin, Mohammad Ruhul",
+  author= "Saha, Sourav and Junaed, Jahedul Alam and Saleki, Maryam and Rahouti, Mohamed and Mohammed, Nabeel, and Amin, Mohammad Ruhul",
   booktitle =  "Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023)",
   month = "dec",
   year = "2023",
