@@ -166,8 +166,7 @@ Please use the following BibTeX to cite the dataset and the task.
 ### Dataset Paper:
 ```
 @inproceedings{SahaAndJunaed,
-  title = "Vio-Lens: A Novel Dataset of Annotated Social Network Posts Leading to
-Different Forms of Communal Violence and its Evaluation",
+  title = "Vio-Lens: A Novel Dataset of Annotated Social Network Posts Leading to Different Forms of Communal Violence and its Evaluation",
   author= "Saha, Sourav and Junaed, Jahedul Alam  and Saleki, Maryam and Sharma, Arnab Sen and Rifat, Mohammad Rashidujjaman and Rahout, Mohamed and Ahmed, Syed Ishtiaque and Mohammad, Nabeel and Amin, Mohammad Ruhul",
   booktitle =  "Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023)",
   month = "dec",
